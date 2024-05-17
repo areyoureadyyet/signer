@@ -1,0 +1,2 @@
+# MODIFY THE signer.bat file AS YOUR PREREQUISITE
+# HAPPY HACKING !
